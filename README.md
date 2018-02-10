@@ -8,7 +8,7 @@ by [Michael Hartl](http://www.michaelhartl.com/). Hello, world!
 
 This is a project from (https://www.railstutorial.org/book/beginning).
 
-This purpose of this project was to rebuild the classic rock-paper-scissors and play against the computer.
+This purpose of this project was to develop a web application with Ruby on Rails and deploy it to a hosted platform (Heroku).
 
 
 ## Pre-Project Thoughts
