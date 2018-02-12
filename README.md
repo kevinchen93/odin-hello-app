@@ -16,10 +16,10 @@ I will do my best!
 
 ## Post-Project Thoughts
 
-I create a functional (if minimal) web application. One thing the page is definitely missing is a more appealing landing page. More
+I created a functional (if minimal) web application. One thing the page is definitely missing is a more appealing landing page. More
 features can be added. I will learn how later on in the curriculum.
 
-Skills I demonstrated or strengthened at project end: 
+Skills I demonstrated or strengthened at project end: <br>
 -Generated a new application using `rails new` and ran a local server using
 `rails server` both on a command-line terminal <br>
 -Added a controller action and modified the root route to create a "hello, world"
