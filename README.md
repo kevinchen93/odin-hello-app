@@ -1,14 +1,12 @@
-# Ruby on Rails Tutorial
-
-## "hello, world!"
-
-This is the first application for the
-[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/). Hello, world!
-
-This is a project from (https://www.railstutorial.org/book/beginning).
+# Ruby on Rails Tutorial -- "hello, world!"
 
 This purpose of this project was to develop a web application with Ruby on Rails and deploy it to a hosted platform (Heroku).
+
+This is the first application for the
+[*Ruby on Rails Tutorial*](https://www.railstutorial.org/book/beginning)
+by [Michael Hartl](http://www.michaelhartl.com/).
+
+This is a project from [The Odin Project](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails-basics).
 
 
 ## Pre-Project Thoughts
